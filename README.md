@@ -115,4 +115,28 @@ El algoritmo SAC comenzará a entrenar el agente para interactuar con el entorno
 
 ## 📸 Registro fotográfico
 
+![Image](https://github.com/user-attachments/assets/7ae82b1d-52b3-430c-844a-6cfd125dd91b)
+
+![Image](https://github.com/user-attachments/assets/a2855dea-0193-47f8-a074-5ad41bf078ec)
+
+---
+
+---
+
+## 🏗️ Créditos
+
+Este proyecto hace uso de la tecnología y librerías desarrolladas por **Roman Parák** y colaboradores en el marco del repositorio original **[PyBullet_Industrial_Robotics_Gym](https://github.com/rparak/PyBullet_Industrial_Robotics_Gym)**.
+
+
+El proyecto integra componentes de las siguientes tecnologías:
+- **PyBullet**: simulación física de robots y entornos tridimensionales.  
+- **Stable-Baselines3**: implementación en PyTorch de algoritmos de aprendizaje por refuerzo.  
+- **Gymnasium (OpenAI Gym)**: marco para la definición y evaluación de entornos RL.  
+- **RoLE (Robotics Library for Everyone)**: biblioteca modular para el control de estructuras robóticas.  
+
+Esta adaptación incorpora un entorno **dockerizado** para facilitar la ejecución en sistemas Linux con soporte gráfico (X11), permitiendo el entrenamiento y visualización interactiva de los entornos industriales.
+
+Se agradece a la comunidad de desarrolladores de **Python, PyBullet y Stable-Baselines3** por ofrecer herramientas abiertas que impulsan la investigación y el aprendizaje en el campo de la **robótica inteligente y el control autónomo**.
+
+---
 
